@@ -1,0 +1,15 @@
+---
+title: "Sample analysis"
+author: "Dr. Richards"
+date: "2025-08-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+1+1=2
+```
+
+3 types of information: participant information, conceptual background information, and steps to complete.
