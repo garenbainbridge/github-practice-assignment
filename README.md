@@ -4,4 +4,9 @@ Description: Some goals I have for this class are learning more about analyzing 
 
 My most important reasons for reproducibility are to ensure that the data and methods of a specific study are accurate to what the original researchers claim. Another reason that is important to me is to ensure that medical innovations perform the actual intended action so that patients can benefit as much as possible from novel discoveries.
 
+
+
+Hi, William was here.
+
 **Commit messages are supported by detailed descriptions in the commit descriptions.**
+
